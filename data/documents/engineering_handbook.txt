@@ -1,0 +1,1 @@
+The engineering team follows a trunk-based development workflow. All code changes require at least one peer review before merging to main. Our CI pipeline runs unit tests, integration tests, and a security scan on every pull request. Production deployments happen automatically after merge, using a blue-green deployment strategy to minimize downtime.
