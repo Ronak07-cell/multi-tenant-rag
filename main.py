@@ -39,3 +39,20 @@ if __name__ == "__main__":
     demo_query(store, "carol", "what is our revenue growth?")
     demo_query(store, "dave", "what integrations do you support?")
     demo_query(store, "dave", "what is the deployment process?")
+
+    print("\n--- INTERACTIVE MODE ---")
+    print("Available users: alice (engineer), bob (hr), carol (finance), dave (customer)")
+
+    while True:
+        username = input("\nUsername (or 'exit' to quit): ").strip()
+        if username.lower() == "exit":
+            break
+
+        query = input("Your question: ").strip()
+        if not query:
+            continue
+
+        try:
+            demo_query(store, username, query)
+        except ValueError as e:
+            print(f"Error: {e}")

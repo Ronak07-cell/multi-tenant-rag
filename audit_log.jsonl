@@ -4,3 +4,23 @@
 {"timestamp": "2026-09-28T10:57:53.501899", "username": "carol", "role": "finance", "query": "what is our revenue growth?", "retrieved_sources": ["finance_report.txt", "public_faq.txt"], "num_results": 2}
 {"timestamp": "2026-09-28T10:57:53.511069", "username": "dave", "role": "customer", "query": "what integrations do you support?", "retrieved_sources": ["public_faq.txt"], "num_results": 1}
 {"timestamp": "2026-09-28T10:57:53.522363", "username": "dave", "role": "customer", "query": "what is the deployment process?", "retrieved_sources": ["public_faq.txt"], "num_results": 1}
+{"timestamp": "2026-09-29T11:26:57.515887", "username": "alice", "role": "engineer", "query": "what is our deployment process?", "retrieved_sources": ["engineering_handbook.txt", "public_faq.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:26:57.529333", "username": "alice", "role": "engineer", "query": "what is the company's revenue?", "retrieved_sources": ["public_faq.txt", "engineering_handbook.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:26:57.546592", "username": "bob", "role": "hr", "query": "what is our PTO policy?", "retrieved_sources": ["hr_policy.txt", "public_faq.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:26:57.576648", "username": "carol", "role": "finance", "query": "what is our revenue growth?", "retrieved_sources": ["finance_report.txt", "public_faq.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:26:57.591216", "username": "dave", "role": "customer", "query": "what integrations do you support?", "retrieved_sources": ["public_faq.txt"], "num_results": 1}
+{"timestamp": "2026-09-29T11:26:57.605911", "username": "dave", "role": "customer", "query": "what is the deployment process?", "retrieved_sources": ["public_faq.txt"], "num_results": 1}
+{"timestamp": "2026-09-29T11:28:13.225351", "username": "alice", "role": "engineer", "query": "what is our deployment process?", "retrieved_sources": ["engineering_handbook.txt", "public_faq.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:28:13.238788", "username": "alice", "role": "engineer", "query": "what is the company's revenue?", "retrieved_sources": ["public_faq.txt", "engineering_handbook.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:28:13.250407", "username": "bob", "role": "hr", "query": "what is our PTO policy?", "retrieved_sources": ["hr_policy.txt", "public_faq.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:28:13.264537", "username": "carol", "role": "finance", "query": "what is our revenue growth?", "retrieved_sources": ["finance_report.txt", "public_faq.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:28:13.281590", "username": "dave", "role": "customer", "query": "what integrations do you support?", "retrieved_sources": ["public_faq.txt"], "num_results": 1}
+{"timestamp": "2026-09-29T11:28:13.292905", "username": "dave", "role": "customer", "query": "what is the deployment process?", "retrieved_sources": ["public_faq.txt"], "num_results": 1}
+{"timestamp": "2026-09-29T11:28:27.436122", "username": "alice", "role": "engineer", "query": "what technologies does the company use?", "retrieved_sources": ["engineering_handbook.txt", "public_faq.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:29:21.464626", "username": "alice", "role": "engineer", "query": "what is our deployment process?", "retrieved_sources": ["engineering_handbook.txt", "public_faq.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:29:21.479138", "username": "alice", "role": "engineer", "query": "what is the company's revenue?", "retrieved_sources": ["public_faq.txt", "engineering_handbook.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:29:21.492013", "username": "bob", "role": "hr", "query": "what is our PTO policy?", "retrieved_sources": ["hr_policy.txt", "public_faq.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:29:21.503081", "username": "carol", "role": "finance", "query": "what is our revenue growth?", "retrieved_sources": ["finance_report.txt", "public_faq.txt"], "num_results": 2}
+{"timestamp": "2026-09-29T11:29:21.516240", "username": "dave", "role": "customer", "query": "what integrations do you support?", "retrieved_sources": ["public_faq.txt"], "num_results": 1}
+{"timestamp": "2026-09-29T11:29:21.527784", "username": "dave", "role": "customer", "query": "what is the deployment process?", "retrieved_sources": ["public_faq.txt"], "num_results": 1}
+{"timestamp": "2026-09-29T11:29:28.568297", "username": "dave", "role": "customer", "query": "what technologies does the company use?", "retrieved_sources": ["public_faq.txt"], "num_results": 1}
